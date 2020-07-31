@@ -5,3 +5,4 @@ pull: 원격 저장소의 내용을 가져오기
 test: test로 수정해서 pull 되는지 확인해보기
 test branch
 issue1 test
+pull test
